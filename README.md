@@ -1,3 +1,3 @@
-# Data structure sample
+# Data structure problem solving 
 
 ## My personal ds collection
